@@ -1,8 +1,8 @@
-package com.example.examplemod;
+package com.samuraidestroy.sdlib;
 
 import net.fabricmc.api.ModInitializer;
 
-public class ExampleMod implements ModInitializer {
+public class SDLib implements ModInitializer {
     
     @Override
     public void onInitialize() {
